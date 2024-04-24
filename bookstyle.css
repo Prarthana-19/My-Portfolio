@@ -1,0 +1,46 @@
+.grid-container {
+display: grid;
+grid-template-columns: 1fr 1fr;
+gap: 30px;
+}
+
+.flex-container {
+    display: flex;
+    border-color: grey; 
+    border-radius: 20px;
+    background-color: beige;
+    gap: 10px;
+   padding-right:20px; 
+}
+
+.flex-container p, h2, a {
+    text-align: justify;
+    vertical-align: text-bottom;
+}
+
+.flex-container img{
+    vertical-align: bottom;
+}
+
+body {
+    background-image:url(https://i.pinimg.com/564x/da/a7/29/daa729e01f653e1d3fbe72446f054940.jpg);
+    background-size: cover
+}
+
+#h1-top {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+
+  h1{
+    color: beige;
+  }
+
+  #p1-top {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: small;
+    font
+  }

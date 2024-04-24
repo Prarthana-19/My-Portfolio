@@ -1,0 +1,38 @@
+body { 
+      background-image: url(https://i.pinimg.com/564x/b9/45/86/b94586e13ce7a648311a1840f6c87409.jpg);
+      background-size: cover
+}
+#h1-top {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  h1,h2,h3,h5,p {
+    color:whitesmoke
+  }
+
+
+#h12-top {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+#h2-top  {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+
+#h3-top {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+#p1-top  {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: small;
+    font
+  }
